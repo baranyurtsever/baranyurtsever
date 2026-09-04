@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm @baranyurtsever</h1>
 <h3 align="center">A MSc mathematician who's interested in data science and blockchain technology.</h3>
 
-- 🌱 I’m currently learning **Excel, R, SQL, and Python for data science**
-
-- 🤝 I’m looking for help with **anything that can help me improve**
-
-- 💬 Ask me about **abstract mathematics for now, data science later :)**
-
 - 📫 How to reach me **brnyurtsever@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
